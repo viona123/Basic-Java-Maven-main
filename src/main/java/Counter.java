@@ -1,6 +1,6 @@
 public class Counter {
 
-	private 
+	private int count;
 	
 	public Counter() {
 		this.reset();
