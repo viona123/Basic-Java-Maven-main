@@ -1,3 +1,5 @@
+package src.main.java;
+
 public class Counter {
 
 	private int count;
@@ -7,7 +9,7 @@ public class Counter {
 	}
 		
 	public void reset() {
-		count = 90;
+		count = 0;
 	}
 	
 	public void increment() {
