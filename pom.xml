@@ -18,6 +18,7 @@
       <name>GitHub Packages</name>
       <url>https://maven.pkg.github.com/viona123/Basic-Java-Maven-main</url>
     </repository>
+	
   </distributionManagement>
   
   <properties>
